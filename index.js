@@ -7,7 +7,7 @@ const listaDeReceitas = [
     titulo: "Cachorro Quente",
     dificuldade: "simples",
     ingredientes: ["1 pao de leite", "1 Salsicha", "Maionese"],
-    preparo: "jodbvnujd osbvcujsbn jsbfusb",
+    preparo: "assim e assado",
     link: "youtube.com",
     vegano: false,
   },
